@@ -6,7 +6,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 
 | Day | Topic | Key Concept | Code Link |
 | :--- | :--- | :--- | :--- |
-| Day 01 | Arrays | Sliding Window / Two-Pointer | [View Code](./Day01/cleanTags.js) |
+| Day 01 | Arrays | Sliding Window / Two-Pointer | [View Code](./day01/cleanTags.js) |
 
 ---
 

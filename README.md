@@ -7,15 +7,11 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day | Topic | Key Concept | Code Link |
 | :--- | :--- | :--- | :--- |
 | Day 01 | Arrays | Sliding Window / Two-Pointer | [View Code](./day01/cleanTags.js) |
-| Day 02 | Linked List | Fast & Slow Pointers | [View Code](./Day02/solution.py) |
-| Day 03 | Hashing | Frequency Map Optimization | [View Code](./Day03/solution.py) |
-| Day 04 | Recursion | Backtracking & State Space Tree | [View Code](./Day04/solution.py) |
-| Day 05 | Stack | Monotonic Stack Pattern | [View Code](./Day05/solution.py) |
 
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** Python 🐍
+- **Language:** JavaScript
 - **Platform:** LeetCode / GFG
 - **Concepts:** Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming.
 

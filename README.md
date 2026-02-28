@@ -8,7 +8,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | :--- | :--- | :--- | :--- |
 | Day 01 | Arrays | Sliding Window / Two-Pointer | [View Code](./Day01/cleanTags.js) |
 | Day 02 | Hashing| Hashing (Frequency Counter using Map/Object) | [View Code](./day2/HashtagTracker.js) |
-| Day 03 | Sliding Window| Window shifting logic | [View Code](./day3/SlidingWindowjs) |
+| Day 03 | Sliding Window| Window shifting logic | [View Code](./day3/SlidingWindow.js) |
 
 
 

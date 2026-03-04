@@ -12,6 +12,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 04 | LRU cache (system thinking)| Store data for fast access and remove the least recently used item when capacity is full. | [View Code](./day4/LRUCache.js) |
 | Day 05 | Simple Rate Limiter (Per User)|Control traffic using time + counting logic. | [View Code](./day5/SimpleRateLimiter.js) 
 | Day 06 | Basic Trie Implementation|Autocomplete System| [View Code](./day6/TrieImplementation.js) 
+| Day 07 | Graph |Real World Network Thinking| [View Code](./day7/Graphs.js) 
 
 
 

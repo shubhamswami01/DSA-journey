@@ -4,15 +4,16 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 
 ## 📊 Progress Tracker
 
-| Day | Topic | Key Concept | Code Link |
-| :--- | :--- | :--- | :--- |
-| Day 01 | Arrays | Sliding Window / Two-Pointer | [View Code](./Day01/cleanTags.js) |
-| Day 02 | Hashing| Hashing (Frequency Counter using Map/Object) | [View Code](./day2/HashtagTracker.js) |
+| Day | Topic  | Code Link |
+| :--- | :---  | :--- |
+| Day 01 | Arrays | [View Code](./Day01/cleanTags.js) |
+| Day 02 | Hashing|  [View Code](./day2/HashtagTracker.js) |
 | Day 03 | Sliding Window| Window shifting logic | [View Code](./day3/SlidingWindow.js) |
-| Day 04 | LRU cache (system thinking)| Store data for fast access and remove the least recently used item when capacity is full. | [View Code](./day4/LRUCache.js) |
-| Day 05 | Simple Rate Limiter (Per User)|Control traffic using time + counting logic. | [View Code](./day5/SimpleRateLimiter.js) 
-| Day 06 | Basic Trie Implementation|Autocomplete System| [View Code](./day6/TrieImplementation.js) 
-| Day 07 | Graph |Real World Network Thinking| [View Code](./day7/Graphs.js) 
+| Day 04 | LRU cache (system thinking)| [View Code](./day4/LRUCache.js) |
+| Day 05 | Simple Rate Limiter (Per User) | [View Code](./day5/SimpleRateLimiter.js) 
+| Day 06 | Basic Trie Implementation| [View Code](./day6/TrieImplementation.js) 
+| Day 07 | Graph | [View Code](./day7/Graphs.js) 
+| Day 08 | Graph Traversal | [View Code](./day7/GraphsTraverdal.js) 
 
 
 

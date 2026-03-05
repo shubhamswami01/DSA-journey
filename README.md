@@ -13,7 +13,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 05 | Simple Rate Limiter (Per User) | [View Code](./day5/SimpleRateLimiter.js) 
 | Day 06 | Basic Trie Implementation| [View Code](./day6/TrieImplementation.js) 
 | Day 07 | Graph | [View Code](./day7/Graphs.js) 
-| Day 08 | Graph Traversal | [View Code](./day7/GraphTraversal.js) 
+| Day 08 | Graph Traversal | [View Code](./day8/GraphTraversal.js) 
 
 
 

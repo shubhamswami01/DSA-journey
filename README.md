@@ -31,4 +31,4 @@ Each folder is named by the day (e.g., `Day01`). Inside each folder, you will fi
 - `Notes.md`: (Optional) Quick notes on time and space complexity.
 
 ---
-*Follow my journey on [LinkedIn](https://www.linkedin.com/in/shubham-swami-21b32a2a2) and [LeetCode](https://leetcode.com/u/shubhamswami_08/)*
+*Follow my journey on [LinkedIn](https://www.linkedin.com/in/shubham-swami-21b32a2a2) and [LeetCode](https://leetcode.com/u/shubhamswami01/)*

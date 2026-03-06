@@ -21,7 +21,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 ---
 
 ## 🛠️ Tech Stack
-- **Language:** JavaScript
+- **Language:** JavaScript and java
 - **Platform:** LeetCode / GFG
 - **Concepts:** Arrays, Strings, Linked Lists, Trees, Graphs, Dynamic Programming.
 

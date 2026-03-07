@@ -14,7 +14,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 06 | Basic Trie Implementation| [View Code](./day6/TrieImplementation.js) 
 | Day 07 | Graph | [View Code](./day7/Graphs.js) 
 | Day 08 | Graph Traversal | [View Code](./day8/GraphTraversal.js) 
-| Day 09 | Array(two sum) in java | [View Code](./day9/Solution1.java) 
+| Day 09 | Array(two sum) in java | [View Code](./day9/solution1.java) 
 | Day 10 | Best Time to Buy and Sell Stock| [View Code](./day10/solution2.java) 
 
 

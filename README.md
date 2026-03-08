@@ -16,6 +16,9 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 08 | Graph Traversal | [View Code](./day8/GraphTraversal.js) 
 | Day 09 | Array(two sum) in java | [View Code](./day9/solution1.java) 
 | Day 10 | Best Time to Buy and Sell Stock| [View Code](./day10/solution2.java) 
+| Day 11 | Merge sorted array| [View Code](./day11/solution3.java) 
+
+
 
 
 

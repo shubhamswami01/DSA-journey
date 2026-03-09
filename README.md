@@ -17,6 +17,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 09 | Array(two sum) in java | [View Code](./day9/solution1.java) 
 | Day 10 | Best Time to Buy and Sell Stock| [View Code](./day10/solution2.java) 
 | Day 11 | Merge sorted array| [View Code](./day11/solution3.java) 
+| Day 12 | contains duplicate| [View Code](./day12/solution4.java) 
 
 
 
@@ -32,7 +33,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 
 ## 📌 How to Navigate
 Each folder is named by the day (e.g., `Day01`). Inside each folder, you will find:
-- `solution.py`: My implementation of the problem.
+- `solution.java`: My implementation of the problem.
 - `Notes.md`: (Optional) Quick notes on time and space complexity.
 
 ---

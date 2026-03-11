@@ -18,7 +18,8 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 10 | Best Time to Buy and Sell Stock| [View Code](./day10/solution2.java) 
 | Day 11 | Merge sorted array| [View Code](./day11/solution3.java) 
 | Day 12 | contains duplicate| [View Code](./daye12/solution4.java) 
-| Day 13 | Product of Array Except Self| [View Code](./daye5/solution5.java) 
+| Day 13 | Product of Array Except Self| [View Code](./day13/solution5.java) 
+| Day 14 | maximum subarray| [View Code](./day14/solution6.java) 
 
 
 

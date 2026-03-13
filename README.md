@@ -21,6 +21,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 13 | Product of Array Except Self| [View Code](./day13/solution5.java) 
 | Day 14 | maximum subarray| [View Code](./day14/solution6.java) 
 | Day 15 | 3sum| [View Code](./day15/solution7.java) 
+| Day 16 | merge interval | [View Code](./day16/solution8.java) 
 
 
 

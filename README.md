@@ -23,7 +23,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 15 | 3sum| [View Code](./day15/solution7.java) 
 | Day 16 | merge interval | [View Code](./day16/solution8.java) 
 | Day 17| container with most water | [View Code](./day17/solution9.java) 
-
+| Day 18| Sunday Practice Day | [View Code](./day18/practice.java) 
 
 
 

@@ -24,7 +24,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 16 | merge interval | [View Code](./day16/solution8.java) 
 | Day 17| container with most water | [View Code](./day17/solution9.java) 
 | Day 18| Sunday Practice Day | [View Code](./day18/practice.java) 
-| Day 19| Rotate image | [View Code](./day19/solution9.java) 
+| Day 19| Rotate image | [View Code](./day19/solution10.java) 
 | Day 20| starting array | [View Code](./day20/string.java) 
 
 

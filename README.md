@@ -26,7 +26,8 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 18| Sunday Practice Day | [View Code](./day18/practice.java) 
 | Day 19| Rotate image | [View Code](./day19/solution10.java) 
 | Day 20| starting array | [View Code](./day20/string.java) 
-| Day 21| valid parenthesis | [View Code](./day21/validparathesis.java) 
+| Day 21| valid parenthesis | [View Code](./day21/validparathesis.java)
+| Day 22| 125.valid palindrome| [View Code](./day22/125validpalindrome.java)
 
 
 

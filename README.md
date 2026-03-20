@@ -28,6 +28,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 20| starting array | [View Code](./day20/string.java) 
 | Day 21| valid parenthesis | [View Code](./day21/validparathesis.java)
 | Day 22| 125.valid palindrome| [View Code](./day22/125validpalindrome.java)
+| Day 23| valid anagram | [View Code](./day23/validanagram.java)
 
 
 

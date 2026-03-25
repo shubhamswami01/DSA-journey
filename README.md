@@ -33,6 +33,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 25| minimum window substring | [View Code](./day25/minimumwindowsusbtring.java)
 | Day 26| Find the index of first occurence in string| [View Code](./day26/FindTheIndexOfFirstOccurenceInString.java)
 | Day 27 | string compression| [View Code](./day27/stringcompression.java)
+| Day 28 | Longest common prefix| [View Code](./day28/LongestCommonPrefix.java)
 
 
 

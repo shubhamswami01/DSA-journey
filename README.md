@@ -34,6 +34,8 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 26| Find the index of first occurence in string| [View Code](./day26/FindTheIndexOfFirstOccurenceInString.java)
 | Day 27 | string compression| [View Code](./day27/stringcompression.java)
 | Day 28 | Longest common prefix| [View Code](./day28/LongestCommonPrefix.java)
+| Day 29 | Repeated substing pattern| [View Code](./day29/RepeatedSubstringPattern.java)
+| Day 30 | Integer to Roman | [View Code](./day30/IntegerToRoman.java)
 
 
 

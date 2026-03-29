@@ -36,7 +36,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 28 | Longest common prefix| [View Code](./day28/LongestCommonPrefix.java)
 | Day 29 | Repeated substing pattern| [View Code](./day29/RepeatedSubstringPattern.java)
 | Day 30 | Integer to Roman | [View Code](./day30/IntegerToRoman.java)
-| Day 31 |  introduction of stack and queue| [View Code](./day30/)
+| Day 31 |  introduction of stack and queue| [View Code](./day31/)
 | Day 32 | Implementing queue using stack| [View Code](./day32/ImplementingQueueUsingStack.java)
 
 

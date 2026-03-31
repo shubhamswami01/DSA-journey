@@ -38,6 +38,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 30 | Integer to Roman | [View Code](./day30/IntegerToRoman.java)
 | Day 31 |  introduction of stack and queue| [View Code](./day31/)
 | Day 32 | Implementing queue using stack| [View Code](./day32/ImplementingQueueUsingStack.java)
+| Day 3 | Implementing queue using stack| [View Code](./day32/ImplementingQueueUsingStack.java)
 
 
 

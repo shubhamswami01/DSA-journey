@@ -38,10 +38,11 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 30 | Integer to Roman | [View Code](./day30/IntegerToRoman.java)
 | Day 31 |  introduction of stack and queue| [View Code](./day31/)
 | Day 32 | Implementing queue using stack| [View Code](./day32/ImplementingQueueUsingStack.java)
-| Day 3 | Implementing queue using stack| [View Code](./day32/ImplementingQueueUsingStack.java)
+| Day 33 |Merge Two Sorted List| [View Code](./day33/MergeTwoSortedList.java)
+| Day 34 |Remove Nth Node From The List| [View Code](./day34/removeNthFromEnd.java)
 
 
-
+day33/MergeTwoSortedList.java
 
 ---
 

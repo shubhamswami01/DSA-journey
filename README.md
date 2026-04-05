@@ -41,7 +41,7 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 33 |Merge Two Sorted List| [View Code](./day33/MergeTwoSortedList.java)
 | Day 34 |Remove Nth Node From The List| [View Code](./day34/removeNthFromEnd.java)
 | Day 35 |Linked List Cycle| [View Code](./day35/LinkedListCycle.java)
-| Day 36 |Add Two Numbers| [View Code](./day36/AddTwoNumbers.java)
+| Day 36 |Add Two Numbers| [View Code](./day36/AddTwoNumbers.js)
 
 
 day33/MergeTwoSortedList.java

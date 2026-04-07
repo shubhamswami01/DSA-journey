@@ -45,6 +45,8 @@ This repository is dedicated to my 100-day challenge of mastering Data Structure
 | Day 37 |Intersection of two linked list| [View Code](./day37/IntersectionOfTwoLinkedList.java)
 | Day 38 |Palindrome Linked list| [View Code](./day38/PalindromeLinkedList.java)
 | Day 39 |Reverse node in k- group | [View Code](./day39/ReverseNodesInK-Group.java)
+| Day 40 |Implementing Stack Using Queue| [View Code](./day40/ImplementingQueueUsingStack.java)
+
 
 
 
